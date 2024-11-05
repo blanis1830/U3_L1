@@ -1,0 +1,4 @@
+In your own words, explain the differences between while loops and recursion.
+Recursion is a function calling itself and has to remember everything, but a while loop can only remember the loop that they're on.
+Provide your reasoning to support the following claim: recursion is not a substitute for while loops. Support your reasoning with evidence from your lab and the notes.
+I believe while loops are easier to use and not as complicated as recursion. But recursion is more precise than while loops. 
